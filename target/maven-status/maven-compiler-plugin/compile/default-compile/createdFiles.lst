@@ -1,0 +1,7 @@
+com/example/common/cache/DefaultSimpleProductGeneratedCacheKey.class
+com/example/common/config/Config.class
+com/example/common/entity/SimpleProduct.class
+com/example/common/repository/ProductRepositoryImpl.class
+com/example/common/repository/ProductRepositoryImpl$1.class
+com/example/common/cache/SimpleProductCacheKeyGenerator.class
+com/example/common/repository/IProductRepository.class
